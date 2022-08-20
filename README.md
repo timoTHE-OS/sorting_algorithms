@@ -20,7 +20,7 @@ What you should learn from this project:
 
 ---
 
-## Author
 
-* **OLUMIDE MICHEAL** - [codewithmide](github.com/codewithmide)
+
+
 
